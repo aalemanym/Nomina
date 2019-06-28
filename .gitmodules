@@ -1,0 +1,4 @@
+[submodule "itadmin01/Odoo_CFDI_3.3"]
+	path = itadmin01/Odoo_CFDI_3.3
+	url = git@github.com:itadmin01/Odoo_CFDI_3.3.git
+	branch = 12.0
